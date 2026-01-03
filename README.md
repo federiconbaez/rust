@@ -253,3 +253,4 @@ Usar gestor de secretos (Vault, AWS Secrets Manager, etc.) en producción.
 ## Licencia
 
 MIT
+# rust
